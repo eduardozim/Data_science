@@ -1,0 +1,538 @@
+﻿Colaborador_gen;Celula;Categoria;Especialidade;Nivel
+Colaborador 1;TECH;Cloud;Azure;Avançado
+Colaborador 1;TECH;Desenvolvimento;Script powershell;Avançado
+Colaborador 1;TECH;Devops;Terraform;Avançado
+Colaborador 1;TECH;Firewall;ForefrontTMG;Avançado
+Colaborador 1;TECH;Firewall;Windows;Avançado
+Colaborador 1;TECH;Segurança;Certificado Digital;Avançado
+Colaborador 1;TECH;Segurança;Controle de acessos;Avançado
+Colaborador 1;TECH;Segurança;Firewall;Avançado
+Colaborador 1;TECH;Segurança;Proteção de identidade;Avançado
+Colaborador 1;TECH;Segurança;VPN;Avançado
+Colaborador 1;TECH;Servidores;AD;Avançado
+Colaborador 1;TECH;Servidores;DHCP;Avançado
+Colaborador 1;TECH;Servidores;DNS;Avançado
+Colaborador 1;TECH;Servidores;Failover Cluster;Avançado
+Colaborador 1;TECH;Servidores;File Server;Avançado
+Colaborador 1;TECH;Servidores;Hyper-V;Avançado
+Colaborador 1;TECH;Servidores;RDS;Avançado
+Colaborador 1;TECH;Servidores;Windows Server;Avançado
+Colaborador 1;TECH;SO;Windows;Avançado
+Colaborador 10;TECH;Monitoramento;Nagios;Avançado
+Colaborador 10;TECH;Monitoramento;SolarWinds;Avançado
+Colaborador 11;NOC;Firewalls;Checkpoint;Avançado
+Colaborador 11;NOC;Firewalls;Fortinet;Avançado
+Colaborador 11;NOC;Firewalls;ISO;Avançado
+Colaborador 11;NOC;Firewalls;LGPD;Avançado
+Colaborador 11;NOC;Firewalls;SonicWall;Avançado
+Colaborador 11;NOC;Firewalls;Sophos;Avançado
+Colaborador 11;NOC;Redes;Cabeamento;Avançado
+Colaborador 11;NOC;Redes;Estrutura de Redes;Avançado
+Colaborador 11;NOC;Segurança;Antivirus Macaffe;Avançado
+Colaborador 11;NOC;Segurança;Antivirus Sophos;Avançado
+Colaborador 11;NOC;Segurança;Antivirus Trend;Avançado
+Colaborador 11;NOC;Segurança;SIEM Inteliacts;Avançado
+Colaborador 11;NOC;Segurança;VPN;Avançado
+Colaborador 11;NOC;SO;Linux Red Hat;Avançado
+Colaborador 11;NOC;SO;Linux Ubuntu;Avançado
+Colaborador 11;NOC;SO;Windows;Avançado
+Colaborador 15;NOC;Segurança;SonicWall VPN;Avançado
+Colaborador 15;NOC;Segurança;Windows VPN;Avançado
+Colaborador 15;NOC;SO;Windows;Avançado
+Colaborador 16;NOC;Segurança;Anydesk;Avançado
+Colaborador 16;NOC;Segurança;TakeControl;Avançado
+Colaborador 16;NOC;Segurança;Team Viewer;Avançado
+Colaborador 16;NOC;Segurança;UnltraVNC;Avançado
+Colaborador 19;NOC;Redes;Estrutura de Redes;Avançado
+Colaborador 19;NOC;Segurança;Antivirus Sophos;Avançado
+Colaborador 19;NOC;Segurança;Antivirus Trend;Avançado
+Colaborador 19;NOC;Segurança;VPN;Avançado
+Colaborador 19;NOC;SO;Windows;Avançado
+Colaborador 2;SOC;Firewall;IPTables;Avançado
+Colaborador 2;SOC;Firewall;Windows;Avançado
+Colaborador 2;SOC;Proxy;Perfsense;Avançado
+Colaborador 2;SOC;Proxy;Speed;Avançado
+Colaborador 2;SOC;Redes;Cabeamento;Avançado
+Colaborador 2;SOC;Redes;Redes;Avançado
+Colaborador 2;SOC;Redes;Roteadores;Avançado
+Colaborador 2;SOC;Redes;Switches;Avançado
+Colaborador 2;SOC;Segurança;Checkpoint;Avançado
+Colaborador 2;SOC;Segurança;Firewall Fortinet;Avançado
+Colaborador 2;SOC;Segurança;Firewall Sophos;Avançado
+Colaborador 2;SOC;Segurança;VPN;Avançado
+Colaborador 2;SOC;Servidores;VMWare;Avançado
+Colaborador 2;SOC;Storage;Dell;Avançado
+Colaborador 20;NOC;SO;Windows;Avançado
+Colaborador 21;NOC;Infraestrutura;Manutenção de Computadores;Avançado
+Colaborador 4;PMO;E-mail/Collab;Power BI;Avançado
+Colaborador 5;TECH;Backup;HP Data Protector;Avançado
+Colaborador 5;TECH;Backup;MABS;Avançado
+Colaborador 5;TECH;Servidores;AD;Avançado
+Colaborador 5;TECH;Servidores;DHCP;Avançado
+Colaborador 5;TECH;Servidores;DNS;Avançado
+Colaborador 5;TECH;Servidores;Failover Cluster;Avançado
+Colaborador 5;TECH;Servidores;File Server;Avançado
+Colaborador 5;TECH;Servidores;Hyper-V;Avançado
+Colaborador 5;TECH;Servidores;Windows Server;Avançado
+Colaborador 5;TECH;SO;Windows;Avançado
+Colaborador 6;SOC;Desenvolvimento;Script bash;Avançado
+Colaborador 6;SOC;E-mails/Collab;Office 365;Avançado
+Colaborador 6;SOC;E-mails/Collab;Teams;Avançado
+Colaborador 6;SOC;Firewall;IPTables;Avançado
+Colaborador 6;SOC;Firewall;Perfsense;Avançado
+Colaborador 6;SOC;Firewall;SonicWall;Avançado
+Colaborador 6;SOC;Firewall;Windows;Avançado
+Colaborador 6;SOC;Redes;Cabeamento;Avançado
+Colaborador 6;SOC;Redes;Estrutura de Redes;Avançado
+Colaborador 6;SOC;Redes;Roteadores;Avançado
+Colaborador 6;SOC;Redes;Switches;Avançado
+Colaborador 6;SOC;Redes;Wi-Fi;Avançado
+Colaborador 6;SOC;Segurança;Antivirus;Avançado
+Colaborador 6;SOC;Segurança;Antivirus Trend;Avançado
+Colaborador 6;SOC;Segurança;Certificado Digital;Avançado
+Colaborador 6;SOC;Segurança;Controle de acessos;Avançado
+Colaborador 6;SOC;Segurança;Firewall;Avançado
+Colaborador 6;SOC;Segurança;Kaspersky;Avançado
+Colaborador 6;SOC;Segurança;LGPD;Avançado
+Colaborador 6;SOC;Segurança;Proteção de identidade;Avançado
+Colaborador 6;SOC;Segurança;VPN;Avançado
+Colaborador 6;SOC;Servidores;AD;Avançado
+Colaborador 6;SOC;Servidores;Citrix Xen Server;Avançado
+Colaborador 6;SOC;Servidores;DHCP;Avançado
+Colaborador 6;SOC;Servidores;DNS;Avançado
+Colaborador 6;SOC;Servidores;File Server;Avançado
+Colaborador 6;SOC;Servidores;Hyper-V;Avançado
+Colaborador 6;SOC;Servidores;Linux Server;Avançado
+Colaborador 6;SOC;Servidores;VMWare;Avançado
+Colaborador 6;SOC;Servidores;Windows Server;Avançado
+Colaborador 6;SOC;SO;Linux Cent OS/Red Hat;Avançado
+Colaborador 6;SOC;SO;Linux Debian;Avançado
+Colaborador 6;SOC;SO;MACOS;Avançado
+Colaborador 6;SOC;SO;Windows;Avançado
+Colaborador 6;SOC;Storage;Dell;Avançado
+Colaborador 7;DEV;Desenvolvimento;C#;Avançado
+Colaborador 7;DEV;Desenvolvimento;CSS;Avançado
+Colaborador 7;DEV;Desenvolvimento;HTML;Avançado
+Colaborador 7;DEV;Desenvolvimento;JavaScript;Avançado
+Colaborador 7;DEV;Desenvolvimento;React;Avançado
+Colaborador 7;DEV;Desenvolvimento;Sharepoint;Avançado
+Colaborador 7;DEV;Desenvolvimento;SPFX;Avançado
+Colaborador 8;TECH;Database;Linguagem SQL;Avançado
+Colaborador 8;TECH;Database;SQL Server ;Avançado
+Colaborador 9;NOC;Hardware;Manutenção de Computadores;Avançado
+Colaborador 9;NOC;Hardware;Manutenção de Servidores;Avançado
+Colaborador 9;NOC;Redes;Cabeamento;Avançado
+Colaborador 9;NOC;Redes;Estrutura de Redes;Avançado
+Colaborador 9;NOC;Redes;Roteadores;Avançado
+Colaborador 9;NOC;Redes;Switches;Avançado
+Colaborador 9;NOC;SO;Windows;Avançado
+Colaborador 6;SOC;Segurança;Checkpoint;Iniciante
+Colaborador 1;TECH;Cloud;Digital Ocean;Iniciante
+Colaborador 1;TECH;Database;Linguagem SQL;Iniciante
+Colaborador 1;TECH;Database;SQL Server ;Iniciante
+Colaborador 1;TECH;Desenvolvimento;C;Iniciante
+Colaborador 1;TECH;Desenvolvimento;Java;Iniciante
+Colaborador 1;TECH;Desenvolvimento;Python;Iniciante
+Colaborador 1;TECH;Devops;CI/CD;Iniciante
+Colaborador 1;TECH;Devops;Dokers Forms;Iniciante
+Colaborador 1;TECH;Devops;Jenkins;Iniciante
+Colaborador 1;TECH;Devops;Packer;Iniciante
+Colaborador 1;TECH;Firewall;IPTables;Iniciante
+Colaborador 1;TECH;Firewall;Perfsense;Iniciante
+Colaborador 1;TECH;Firewall;SonicWall;Iniciante
+Colaborador 1;TECH;Monitoramento;Bigbrother Xymon;Iniciante
+Colaborador 1;TECH;Redes;Cabeamento;Iniciante
+Colaborador 1;TECH;Redes;Roteadores;Iniciante
+Colaborador 1;TECH;Segurança;Antivirus;Iniciante
+Colaborador 1;TECH;Servidores;VMWare;Iniciante
+Colaborador 1;TECH;SO;Linux Cent OS/Red Hat;Iniciante
+Colaborador 1;TECH;SO;Linux Debian;Iniciante
+Colaborador 1;TECH;SO;Linux Suse;Iniciante
+Colaborador 1;TECH;Storage;Gerenciamento;Iniciante
+Colaborador 10;TECH;Monitoramento;Zabbix;Iniciante
+Colaborador 11;NOC;Backup;Data Protector;Iniciante
+Colaborador 11;NOC;Backup;VEEM;Iniciante
+Colaborador 11;NOC;Database;Linguagem SQL;Iniciante
+Colaborador 11;NOC;Database;Oracle;Iniciante
+Colaborador 11;NOC;Storage;Gerenciamento;Iniciante
+Colaborador 12;NOC;Backup;VEEM;Iniciante
+Colaborador 12;NOC;E-mails/Collab;Exchange;Iniciante
+Colaborador 12;NOC;SO;Windows;Iniciante
+Colaborador 13;NOC;Database;Oracle;Iniciante
+Colaborador 13;NOC;Database;SQL Server ;Iniciante
+Colaborador 13;NOC;Firewalls;Perfsense;Iniciante
+Colaborador 13;NOC;Firewalls;SonicWall;Iniciante
+Colaborador 13;NOC;Redes;Cabeamento;Iniciante
+Colaborador 13;NOC;Redes;Estrutura de Redes;Iniciante
+Colaborador 13;NOC;Redes;Roteadores;Iniciante
+Colaborador 13;NOC;Redes;Switches;Iniciante
+Colaborador 13;NOC;Segurança;Antivirus KasperSky;Iniciante
+Colaborador 13;NOC;Servidores;Linux Server;Iniciante
+Colaborador 13;NOC;SO;Linux Cent OS/Red Hat;Iniciante
+Colaborador 13;NOC;Storage;Gerenciamento;Iniciante
+Colaborador 14;NOC;Backup;MCB;Iniciante
+Colaborador 14;NOC;Infraestrutura;Manutenção;Iniciante
+Colaborador 15;NOC;Backup;Data Protector;Iniciante
+Colaborador 15;NOC;Backup;VEEM;Iniciante
+Colaborador 15;NOC;Cloud;AWS;Iniciante
+Colaborador 15;NOC;Cloud;Azure;Iniciante
+Colaborador 15;NOC;Database;Oracle;Iniciante
+Colaborador 15;NOC;Database;SQL Server ;Iniciante
+Colaborador 15;NOC;SO;Linux Cent OS/Red Hat;Iniciante
+Colaborador 15;NOC;SO;Linux Debian;Iniciante
+Colaborador 15;NOC;Storage;HP;Iniciante
+Colaborador 16;NOC;Database;Linguagem SQL;Iniciante
+Colaborador 16;NOC;Desenvolvimento;Lógica e Algoritmos;Iniciante
+Colaborador 16;NOC;Desenvolvimento;Pascal/Delphi;Iniciante
+Colaborador 16;NOC;Monitoramento;Zabbix;Iniciante
+Colaborador 16;NOC;Redes;Cabeamento;Iniciante
+Colaborador 16;NOC;Segurança;Controle de acessos;Iniciante
+Colaborador 16;NOC;Servidores;DHCP;Iniciante
+Colaborador 16;NOC;Servidores;Windows Server;Iniciante
+Colaborador 17;DEV;Database;MySQL;Iniciante
+Colaborador 17;DEV;Database;PostgreSQL;Iniciante
+Colaborador 17;DEV;Devops;Azure Devops;Iniciante
+Colaborador 17;DEV;Devops;Git;Iniciante
+Colaborador 17;DEV;Devops;GitHub;Iniciante
+Colaborador 17;DEV;E-mails/Collab;Power Automate;Iniciante
+Colaborador 17;DEV;E-mails/Collab;Sharepoint;Iniciante
+Colaborador 17;DEV;Firewalls;Cisco;Iniciante
+Colaborador 17;DEV;Monitoramento;Grafana;Iniciante
+Colaborador 17;DEV;Redes;Estrutura de Redes;Iniciante
+Colaborador 17;DEV;Servidores;DHCP;Iniciante
+Colaborador 17;DEV;Servidores;DNS;Iniciante
+Colaborador 17;DEV;Servidores;Windows Server;Iniciante
+Colaborador 17;DEV;SO;Linux Arch;Iniciante
+Colaborador 17;DEV;SO;Linux Ubuntu;Iniciante
+Colaborador 18;SOC;Desenvolvimento;C;Iniciante
+Colaborador 18;SOC;Desenvolvimento;C#;Iniciante
+Colaborador 18;SOC;Desenvolvimento;CSS;Iniciante
+Colaborador 18;SOC;Desenvolvimento;HTML;Iniciante
+Colaborador 18;SOC;Desenvolvimento;Java;Iniciante
+Colaborador 18;SOC;Desenvolvimento;Python;Iniciante
+Colaborador 18;SOC;Devops;Git;Iniciante
+Colaborador 18;SOC;Devops;GitHub;Iniciante
+Colaborador 18;SOC;Firewalls;Sophos;Iniciante
+Colaborador 18;SOC;Redes;Estrutura de Redes;Iniciante
+Colaborador 18;SOC;Redes;Roteadores;Iniciante
+Colaborador 18;SOC;Redes;Switches;Iniciante
+Colaborador 18;SOC;Segurança;LGPD;Iniciante
+Colaborador 18;SOC;SO;Windows;Iniciante
+Colaborador 19;NOC;Backup;Data Protector;Iniciante
+Colaborador 19;NOC;Backup;MCB;Iniciante
+Colaborador 19;NOC;Backup;VEEM;Iniciante
+Colaborador 19;NOC;E-mails/Collab;Office 365;Iniciante
+Colaborador 19;NOC;E-mails/Collab;Sharepoint;Iniciante
+Colaborador 19;NOC;E-mails/Collab;Teams;Iniciante
+Colaborador 19;NOC;Redes;Roteador Cisco;Iniciante
+Colaborador 19;NOC;Redes;Switch Cisco;Iniciante
+Colaborador 19;NOC;Servidores;DNS;Iniciante
+Colaborador 19;NOC;Servidores;File Server;Iniciante
+Colaborador 19;NOC;Servidores;Linux Server;Iniciante
+Colaborador 19;NOC;SO;Linux Debian;Iniciante
+Colaborador 19;NOC;Telefonia;3CX;Iniciante
+Colaborador 2;SOC;Cloud;AWS;Iniciante
+Colaborador 2;SOC;Cloud;Azure;Iniciante
+Colaborador 2;SOC;Database;Linguagem SQL;Iniciante
+Colaborador 2;SOC;Devops;Docker;Iniciante
+Colaborador 2;SOC;Proxy;Endian Firewall;Iniciante
+Colaborador 2;SOC;Segurança;Kaspersky;Iniciante
+Colaborador 2;SOC;Segurança;LGPD;Iniciante
+Colaborador 2;SOC;Segurança;Varonis;Iniciante
+Colaborador 2;SOC;Storage;Data Domain;Iniciante
+Colaborador 20;NOC;Backup;Cobian;Iniciante
+Colaborador 20;NOC;Backup;Data Protector;Iniciante
+Colaborador 20;NOC;Backup;VEEM;Iniciante
+Colaborador 20;NOC;Backup;Windows Backup;Iniciante
+Colaborador 20;NOC;Desenvolvimento;CSS;Iniciante
+Colaborador 20;NOC;Desenvolvimento;HTML;Iniciante
+Colaborador 20;NOC;Firewalls;Windows;Iniciante
+Colaborador 20;NOC;Firewalls;Zention*;Iniciante
+Colaborador 20;NOC;Infraestrutura;Manutenção de Celular;Iniciante
+Colaborador 20;NOC;Redes;Cabeamento;Iniciante
+Colaborador 20;NOC;Redes;Estrutura de Redes;Iniciante
+Colaborador 20;NOC;Redes;Roteador Tplink;Iniciante
+Colaborador 20;NOC;Segurança;Antivirus Trend;Iniciante
+Colaborador 20;NOC;Telefonia;3CX;Iniciante
+Colaborador 21;NOC;Backup;Data Protector;Iniciante
+Colaborador 21;NOC;E-mails/Collab;Exchange;Iniciante
+Colaborador 21;NOC;E-mails/Collab;Office 365;Iniciante
+Colaborador 21;NOC;E-mails/Collab;Teams;Iniciante
+Colaborador 21;NOC;Firewalls;SonicWall;Iniciante
+Colaborador 21;NOC;Redes;Estrutura de Redes;Iniciante
+Colaborador 21;NOC;Redes;Roteadores;Iniciante
+Colaborador 21;NOC;Redes;Switches;Iniciante
+Colaborador 21;NOC;Segurança;Antivirus  Trend;Iniciante
+Colaborador 21;NOC;Servidores;Windows Server;Iniciante
+Colaborador 3;DEV;Database;Linguagem SQL;Iniciante
+Colaborador 3;DEV;Desenvolvimento;TypeScript;Iniciante
+Colaborador 3;DEV;Devops;Azure Devops;Iniciante
+Colaborador 3;DEV;Devops;Git;Iniciante
+Colaborador 3;DEV;E-mail/Collab;Power App;Iniciante
+Colaborador 3;DEV;Servidores;AD;Iniciante
+Colaborador 3;DEV;Servidores;DHCP;Iniciante
+Colaborador 3;DEV;Servidores;Hyper-V;Iniciante
+Colaborador 3;DEV;Servidores;Windows Server;Iniciante
+Colaborador 3;DEV;SO;Linux Ubuntu;Iniciante
+Colaborador 3;DEV;SO;MAC;Iniciante
+Colaborador 3;DEV;SO;Windows;Iniciante
+Colaborador 4;PMO;Cloud;AWS;Iniciante
+Colaborador 4;PMO;Cloud;AWS EC2;Iniciante
+Colaborador 4;PMO;Cloud;Azure;Iniciante
+Colaborador 4;PMO;Cloud;Data Bricks;Iniciante
+Colaborador 4;PMO;Cloud;Data Lake;Iniciante
+Colaborador 4;PMO;Cloud;Google;Iniciante
+Colaborador 4;PMO;Data Science;Apache Hive;Iniciante
+Colaborador 4;PMO;Data Science;Apache Mahout;Iniciante
+Colaborador 4;PMO;Database;MongoDB;Iniciante
+Colaborador 4;PMO;Database;MySQL;Iniciante
+Colaborador 4;PMO;Database;Oracle;Iniciante
+Colaborador 4;PMO;Database;PostgreSQL;Iniciante
+Colaborador 4;PMO;Desenvolvimento;JavaScript;Iniciante
+Colaborador 4;PMO;Desenvolvimento;ScriptBash;Iniciante
+Colaborador 4;PMO;DevOps;Azure Devops;Iniciante
+Colaborador 4;PMO;DevOps;Docker / Conteiner;Iniciante
+Colaborador 4;PMO;DevOps;Git;Iniciante
+Colaborador 4;PMO;DevOps;GitHub;Iniciante
+Colaborador 4;PMO;E-mail/Collab;Power Apps;Iniciante
+Colaborador 4;PMO;E-mail/Collab;Power Automate ;Iniciante
+Colaborador 4;PMO;Segurança;IPTables;Iniciante
+Colaborador 4;PMO;Servidores;Hyper-V;Iniciante
+Colaborador 4;PMO;Servidores;Unix Server;Iniciante
+Colaborador 4;PMO;Servidores;VMWare;Iniciante
+Colaborador 4;PMO;Servidores;Windows Server;Iniciante
+Colaborador 4;PMO;SO;Linux Kali;Iniciante
+Colaborador 4;PMO;Telefonia;3CX;Iniciante
+Colaborador 5;TECH;Cloud;AWS;Iniciante
+Colaborador 5;TECH;Desenvolvimento;Script bash;Iniciante
+Colaborador 5;TECH;Desenvolvimento;Script Powershell;Iniciante
+Colaborador 5;TECH;Devops;Ansible;Iniciante
+Colaborador 5;TECH;Devops;Docker / Conteiner;Iniciante
+Colaborador 5;TECH;Devops;Git;Iniciante
+Colaborador 5;TECH;Devops;Jenkins;Iniciante
+Colaborador 5;TECH;Devops;Kubernets;Iniciante
+Colaborador 5;TECH;Devops;Terraform;Iniciante
+Colaborador 5;TECH;E-mail/Collab;Exchange;Iniciante
+Colaborador 5;TECH;Firewall;Fortinet;Iniciante
+Colaborador 5;TECH;Firewall;Perfsense;Iniciante
+Colaborador 5;TECH;Firewall;S4;Iniciante
+Colaborador 5;TECH;Monitoramento;MonitoraIT;Iniciante
+Colaborador 5;TECH;Monitoramento;Nagios;Iniciante
+Colaborador 5;TECH;Monitoramento;RMM;Iniciante
+Colaborador 5;TECH;Monitoramento;Zabbix;Iniciante
+Colaborador 5;TECH;Segurança;Certificado Digital;Iniciante
+Colaborador 5;TECH;Segurança;LGPD;Iniciante
+Colaborador 5;TECH;Segurança;VPN;Iniciante
+Colaborador 5;TECH;Servidores;Linux Server;Iniciante
+Colaborador 5;TECH;SO;Linux Debian;Iniciante
+Colaborador 5;TECH;SO;Linux Suse;Iniciante
+Colaborador 6;SOC;Backup;VEEM;Iniciante
+Colaborador 6;SOC;Cloud;AWS S3;Iniciante
+Colaborador 6;SOC;Database;Linguagem SQL;Iniciante
+Colaborador 6;SOC;Desenvolvimento;Script powershell;Iniciante
+Colaborador 6;SOC;Telefonia;3CX;Iniciante
+Colaborador 7;DEV;Database;Oracle;Iniciante
+Colaborador 7;DEV;E-mails/Collab;Power BI;Iniciante
+Colaborador 8;TECH;Backup;TSM;Iniciante
+Colaborador 8;TECH;Database;Oracle;Iniciante
+Colaborador 8;TECH;Desenvolvimento;JavaScript;Iniciante
+Colaborador 8;TECH;Desenvolvimento;VBScript;Iniciante
+Colaborador 8;TECH;Devops;Git;Iniciante
+Colaborador 8;TECH;E-mails/Collab;Pentaho;Iniciante
+Colaborador 8;TECH;E-mails/Collab;Sharepoint;Iniciante
+Colaborador 8;TECH;Firewalls;Firewall;Iniciante
+Colaborador 8;TECH;Monitoramento;SolarWinds;Iniciante
+Colaborador 8;TECH;Monitoramento;Zabbix;Iniciante
+Colaborador 8;TECH;Segurança;Antivirus;Iniciante
+Colaborador 8;TECH;Segurança;LGPD;Iniciante
+Colaborador 8;TECH;Segurança;VPN Servidor;Iniciante
+Colaborador 8;TECH;Servidores;Linux ;Iniciante
+Colaborador 8;TECH;Servidores;VMWare;Iniciante
+Colaborador 8;TECH;SO;Oracle Linux;Iniciante
+Colaborador 9;NOC;Backup;Data Protector;Iniciante
+Colaborador 9;NOC;Backup;VEEM;Iniciante
+Colaborador 9;NOC;Desenvolvimento;PowerShell DSC;Iniciante
+Colaborador 9;NOC;Monitoramento;Zabbix;Iniciante
+Colaborador 9;NOC;Servidores;AD;Iniciante
+Colaborador 9;NOC;Servidores;DHCP;Iniciante
+Colaborador 9;NOC;Servidores;DNS;Iniciante
+Colaborador 9;NOC;Servidores;File Server;Iniciante
+Colaborador 9;NOC;Servidores;Linux Server;Iniciante
+Colaborador 9;NOC;Servidores;Windows Server;Iniciante
+Colaborador 9;NOC;SO;Linux Red Hat;Iniciante
+Colaborador 9;NOC;Telefonia;3CX;Iniciante
+Colaborador 5;TECH;Backup;VEEM;Intermediario
+Colaborador 5;TECH;Cloud;Azure;Intermediario
+Colaborador 5;TECH;E-mail/Collab;Office 365;Intermediario
+Colaborador 5;TECH;Firewall;SonicWall;Intermediario
+Colaborador 5;TECH;Redes;Cabeamento;Intermediario
+Colaborador 5;TECH;Redes;Estrutura de Redes;Intermediario
+Colaborador 5;TECH;Redes;Roteadores;Intermediario
+Colaborador 5;TECH;Redes;Switches;Intermediario
+Colaborador 5;TECH;Segurança;Antivirus;Intermediario
+Colaborador 5;TECH;Segurança;Controle de acessos;Intermediario
+Colaborador 5;TECH;Servidores;RDS;Intermediario
+Colaborador 5;TECH;Servidores;VMWare;Intermediario
+Colaborador 5;TECH;Storage;Dell;Intermediario
+Colaborador 5;TECH;Storage;HP;Intermediario
+Colaborador 5;TECH;Storage;IBM;Intermediario
+Colaborador 9;NOC;Storage;Synogie;Intermediario
+Colaborador 1;TECH;Backup;HP Data Protector;Intermediario
+Colaborador 1;TECH;Backup;MABS;Intermediario
+Colaborador 1;TECH;Backup;VEEM;Intermediario
+Colaborador 1;TECH;Cloud;AWS;Intermediario
+Colaborador 1;TECH;Desenvolvimento;Script bash;Intermediario
+Colaborador 1;TECH;Devops;Ansible;Intermediario
+Colaborador 1;TECH;Devops;Azure Devops;Intermediario
+Colaborador 1;TECH;Devops;Docker / Conteiner;Intermediario
+Colaborador 1;TECH;Devops;Git;Intermediario
+Colaborador 1;TECH;Devops;Git Lab ;Intermediario
+Colaborador 1;TECH;Devops;GitHub;Intermediario
+Colaborador 1;TECH;Devops;Kubernets;Intermediario
+Colaborador 1;TECH;Devops;PowerShell DSC;Intermediario
+Colaborador 1;TECH;E-mail/Collab;Exchange;Intermediario
+Colaborador 1;TECH;E-mail/Collab;Office 365;Intermediario
+Colaborador 1;TECH;Monitoramento;MonitoraIT;Intermediario
+Colaborador 1;TECH;Monitoramento;Nagios;Intermediario
+Colaborador 1;TECH;Monitoramento;RMM;Intermediario
+Colaborador 1;TECH;Monitoramento;Zabbix;Intermediario
+Colaborador 1;TECH;Redes;Estrutura de Redes;Intermediario
+Colaborador 10;TECH;Automação;Rapesberry Pi;Intermediario
+Colaborador 10;TECH;Redes;Cabeamento;Intermediario
+Colaborador 10;TECH;Redes;Roteadores;Intermediario
+Colaborador 10;TECH;Redes;Switches;Intermediario
+Colaborador 10;TECH;Servidores;Citrix Xen Server;Intermediario
+Colaborador 10;TECH;SO;Linux Debian;Intermediario
+Colaborador 10;TECH;SO;Windows;Intermediario
+Colaborador 11;NOC;E-mails/Collab;Office 365;Intermediario
+Colaborador 11;NOC;E-mails/Collab;Sharepoint;Intermediario
+Colaborador 11;NOC;E-mails/Collab;Teams;Intermediario
+Colaborador 11;NOC;Redes;Switches;Intermediario
+Colaborador 11;NOC;Segurança;Cisco ASA;Intermediario
+Colaborador 11;NOC;Segurança;Junniper;Intermediario
+Colaborador 11;NOC;Servidores;Linux Server;Intermediario
+Colaborador 11;NOC;Servidores;Windows Server 2016;Intermediario
+Colaborador 11;NOC;Telefonia;Intelbrás;Intermediario
+Colaborador 12;NOC;Telefonia;URA;Intermediario
+Colaborador 13;NOC;Backup;Data Protector;Intermediario
+Colaborador 13;NOC;Backup;VEEM;Intermediario
+Colaborador 13;NOC;Desenvolvimento;HTML;Intermediario
+Colaborador 13;NOC;Desenvolvimento;Lógica;Intermediario
+Colaborador 13;NOC;Desenvolvimento;PHP;Intermediario
+Colaborador 13;NOC;Infraestrutura;Manutenção de Computadores;Intermediario
+Colaborador 13;NOC;Servidores;AD;Intermediario
+Colaborador 13;NOC;Servidores;DHCP;Intermediario
+Colaborador 13;NOC;Servidores;DNS;Intermediario
+Colaborador 13;NOC;Servidores;File Server;Intermediario
+Colaborador 13;NOC;Servidores;Windows Server;Intermediario
+Colaborador 13;NOC;SO;Windows;Intermediario
+Colaborador 15;NOC;E-mails/Collab;Exchange;Intermediario
+Colaborador 15;NOC;Firewalls;ASA Cisco;Intermediario
+Colaborador 15;NOC;Firewalls;SonicWall;Intermediario
+Colaborador 15;NOC;Monitoramento;Grafana;Intermediario
+Colaborador 15;NOC;Monitoramento;Nagios;Intermediario
+Colaborador 15;NOC;Redes;Roteador Cisco;Intermediario
+Colaborador 15;NOC;Redes;Switch Cisco;Intermediario
+Colaborador 15;NOC;Servidores;AD;Intermediario
+Colaborador 15;NOC;Servidores;DHCP;Intermediario
+Colaborador 15;NOC;Servidores;DNS;Intermediario
+Colaborador 15;NOC;Servidores;File Server;Intermediario
+Colaborador 15;NOC;Servidores;Windows Server;Intermediario
+Colaborador 15;NOC;Telefonia;Digitro/Asterisk;Intermediario
+Colaborador 16;NOC;Backup;VEEM;Intermediario
+Colaborador 16;NOC;E-mails/Collab;Office 365;Intermediario
+Colaborador 16;NOC;Segurança;Antivirus Sophos;Intermediario
+Colaborador 16;NOC;SO;Windows;Intermediario
+Colaborador 16;NOC;Storage;NAS Lenovo;Intermediario
+Colaborador 17;DEV;Desenvolvimento;Python;Intermediario
+Colaborador 19;NOC;E-mails/Collab;Power BI;Intermediario
+Colaborador 19;NOC;Firewalls;SonicWall;Intermediario
+Colaborador 19;NOC;Monitoramento;Zabbix;Intermediario
+Colaborador 19;NOC;Servidores;AD;Intermediario
+Colaborador 19;NOC;Servidores;DHCP;Intermediario
+Colaborador 19;NOC;Servidores;Windows Server;Intermediario
+Colaborador 2;SOC;Backup;ArchServer;Intermediario
+Colaborador 2;SOC;Backup;VEEM;Intermediario
+Colaborador 2;SOC;Desenvolvimento;Script bash;Intermediario
+Colaborador 2;SOC;E-mail/Collab;Zimbra;Intermediario
+Colaborador 2;SOC;Monitoramento;Zabbix;Intermediario
+Colaborador 2;SOC;Segurança;Antivirus Trend;Intermediario
+Colaborador 2;SOC;Segurança;SIEM;Intermediario
+Colaborador 2;SOC;Segurança;SonicWall;Intermediario
+Colaborador 2;SOC;Segurança;Sophos;Intermediario
+Colaborador 2;SOC;Servidores;Hyper-V;Intermediario
+Colaborador 2;SOC;Servidores;Windows Server;Intermediario
+Colaborador 2;SOC;SO;CentOS;Intermediario
+Colaborador 2;SOC;SO;Debian;Intermediario
+Colaborador 2;SOC;SO;Windows;Intermediario
+Colaborador 2;SOC;Storage;Data Protection;Intermediario
+Colaborador 20;NOC;Infraestrutura;Manutenção de Computadores;Intermediario
+Colaborador 21;NOC;Backup;VEEM;Intermediario
+Colaborador 21;NOC;Redes;Cabeamento;Intermediario
+Colaborador 21;NOC;SO;Windows;Intermediario
+Colaborador 3;DEV;Desenvolvimento;C#;Intermediario
+Colaborador 3;DEV;Desenvolvimento;CSS;Intermediario
+Colaborador 3;DEV;Desenvolvimento;HTML;Intermediario
+Colaborador 3;DEV;Desenvolvimento;JavaScript;Intermediario
+Colaborador 3;DEV;Desenvolvimento;Jquery;Intermediario
+Colaborador 3;DEV;Desenvolvimento;React;Intermediario
+Colaborador 3;DEV;Desenvolvimento;Sharepoint;Intermediario
+Colaborador 3;DEV;E-mail/Collab;Power Automate ;Intermediario
+Colaborador 3;DEV;E-mail/Collab;Power Platform;Intermediario
+Colaborador 4;PMO;Data Science;Apache Hadoop;Intermediario
+Colaborador 4;PMO;Data Science;Apache Spark;Intermediario
+Colaborador 4;PMO;Database;Linguagem SQL;Intermediario
+Colaborador 4;PMO;Desenvolvimento;Assembler;Intermediario
+Colaborador 4;PMO;Desenvolvimento;C++;Intermediario
+Colaborador 4;PMO;Desenvolvimento;CSS;Intermediario
+Colaborador 4;PMO;Desenvolvimento;HTML;Intermediario
+Colaborador 4;PMO;Desenvolvimento;Pascal/Delphi;Intermediario
+Colaborador 4;PMO;Desenvolvimento;Python;Intermediario
+Colaborador 4;PMO;Desenvolvimento;R;Intermediario
+Colaborador 4;PMO;Monitoramento;Nagios;Intermediario
+Colaborador 4;PMO;Redes;Cabeamento;Intermediario
+Colaborador 4;PMO;Redes;Estrutura de Redes;Intermediario
+Colaborador 4;PMO;Redes;Roteador Cisco;Intermediario
+Colaborador 4;PMO;Redes;Switches Cisco;Intermediario
+Colaborador 4;PMO;Redes;Wi-Fi;Intermediario
+Colaborador 4;PMO;SO;Linux Debian;Intermediario
+Colaborador 4;PMO;SO;Linux Red Hat;Intermediario
+Colaborador 4;PMO;Telefonia;Digitro/Asterisk;Intermediario
+Colaborador 4;PMO;Telefonia;Unify;Intermediario
+Colaborador 6;SOC;Cloud;AWS;Intermediario
+Colaborador 6;SOC;Desenvolvimento;CSS;Intermediario
+Colaborador 6;SOC;Desenvolvimento;HTML;Intermediario
+Colaborador 6;SOC;Desenvolvimento;PHP;Intermediario
+Colaborador 6;SOC;E-mails/Collab;Exchange;Intermediario
+Colaborador 6;SOC;E-mails/Collab;Sharepoint;Intermediario
+Colaborador 6;SOC;Firewall;Cisco;Intermediario
+Colaborador 6;SOC;Firewall;Sophos;Intermediario
+Colaborador 6;SOC;Monitoramento;MonitoraIT;Intermediario
+Colaborador 6;SOC;Monitoramento;Nagios;Intermediario
+Colaborador 6;SOC;Monitoramento;RMM;Intermediario
+Colaborador 6;SOC;Monitoramento;Zabbix;Intermediario
+Colaborador 6;SOC;Segurança;SIEM;Intermediario
+Colaborador 6;SOC;Segurança;Sophos;Intermediario
+Colaborador 6;SOC;Servidores;Failover Cluster;Intermediario
+Colaborador 7;DEV;Database;Linguagem SQL;Intermediario
+Colaborador 7;DEV;Database;MySQL;Intermediario
+Colaborador 7;DEV;Database;SQL Server ;Intermediario
+Colaborador 7;DEV;Desenvolvimento;Delphi;Intermediario
+Colaborador 7;DEV;Desenvolvimento;VB6;Intermediario
+Colaborador 7;DEV;Devops;Azure Devops;Intermediario
+Colaborador 7;DEV;Devops;Git;Intermediario
+Colaborador 7;DEV;E-mails/Collab;Power Apps;Intermediario
+Colaborador 7;DEV;E-mails/Collab;Power Automate ;Intermediario
+Colaborador 7;DEV;SO;MACOS;Intermediario
+Colaborador 7;DEV;SO;Windows;Intermediario
+Colaborador 8;TECH;Database;MySQL;Intermediario
+Colaborador 8;TECH;E-mails/Collab;ETL SQL Integration;Intermediario
+Colaborador 8;TECH;Servidores;Windows Server;Intermediario
+Colaborador 9;NOC;E-mails/Collab;Exchange;Intermediario
+Colaborador 9;NOC;E-mails/Collab;Office 365;Intermediario
+Colaborador 9;NOC;Firewalls;Sophos;Intermediario
+Colaborador 9;NOC;Firewalls;Windows Firewall;Intermediario
+Colaborador 9;NOC;Monitoramento;Service Now;Intermediario
+Colaborador 9;NOC;Segurança;Antivirus KasperSky;Intermediario
+Colaborador 9;NOC;Segurança;Antivirus Trend;Intermediario
+Colaborador 9;NOC;Segurança;VPN;Intermediario

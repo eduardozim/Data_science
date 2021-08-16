@@ -1,0 +1,185 @@
+Especialidade,0,1,2
+3CX,0.0,5.0,0.0
+AD,3.0,2.0,3.0
+ASA Cisco,0.0,0.0,1.0
+AWS,0.0,4.0,2.0
+AWS EC2,0.0,1.0,0.0
+AWS S3,0.0,1.0,0.0
+Ansible,0.0,1.0,1.0
+Antivirus,1.0,2.0,1.0
+Antivirus  Trend,0.0,1.0,0.0
+Antivirus KasperSky,0.0,1.0,1.0
+Antivirus Macaffe,1.0,0.0,0.0
+Antivirus Sophos,2.0,0.0,1.0
+Antivirus Trend,3.0,1.0,2.0
+Anydesk,1.0,0.0,0.0
+Apache Hadoop,0.0,0.0,1.0
+Apache Hive,0.0,1.0,0.0
+Apache Mahout,0.0,1.0,0.0
+Apache Spark,0.0,0.0,1.0
+ArchServer,0.0,0.0,1.0
+Assembler,0.0,0.0,1.0
+Azure,1.0,3.0,1.0
+Azure Devops,0.0,3.0,2.0
+Bigbrother Xymon,0.0,1.0,0.0
+C,0.0,2.0,0.0
+C#,1.0,1.0,1.0
+C++,0.0,0.0,1.0
+CI/CD,0.0,1.0,0.0
+CSS,1.0,2.0,3.0
+Cabeamento,4.0,4.0,4.0
+CentOS,0.0,0.0,1.0
+Certificado Digital,2.0,1.0,0.0
+Checkpoint,2.0,1.0,0.0
+Cisco,0.0,1.0,1.0
+Cisco ASA,0.0,0.0,1.0
+Citrix Xen Server,1.0,0.0,1.0
+Cobian,0.0,1.0,0.0
+Controle de acessos,2.0,1.0,1.0
+DHCP,3.0,4.0,3.0
+DNS,3.0,3.0,2.0
+Data Bricks,0.0,1.0,0.0
+Data Domain,0.0,1.0,0.0
+Data Lake,0.0,1.0,0.0
+Data Protection,0.0,0.0,1.0
+Data Protector,0.0,6.0,1.0
+Debian,0.0,0.0,1.0
+Dell,2.0,0.0,1.0
+Delphi,0.0,0.0,1.0
+Digital Ocean,0.0,1.0,0.0
+Digitro/Asterisk,0.0,0.0,2.0
+Docker,0.0,1.0,0.0
+Docker / Conteiner,0.0,2.0,1.0
+Dokers Forms,0.0,1.0,0.0
+ETL SQL Integration,0.0,0.0,1.0
+Endian Firewall,0.0,1.0,0.0
+Estrutura de Redes,4.0,5.0,3.0
+Exchange,0.0,3.0,4.0
+Failover Cluster,2.0,0.0,1.0
+File Server,3.0,2.0,2.0
+Firewall,2.0,1.0,0.0
+Firewall Fortinet,1.0,0.0,0.0
+Firewall Sophos,1.0,0.0,0.0
+ForefrontTMG,1.0,0.0,0.0
+Fortinet,1.0,1.0,0.0
+Gerenciamento,0.0,3.0,0.0
+Git,0.0,6.0,2.0
+Git Lab ,0.0,0.0,1.0
+GitHub,0.0,3.0,1.0
+Google,0.0,1.0,0.0
+Grafana,0.0,1.0,1.0
+HP,0.0,1.0,1.0
+HP Data Protector,1.0,0.0,1.0
+HTML,1.0,2.0,4.0
+Hyper-V,3.0,2.0,1.0
+IBM,0.0,0.0,1.0
+IPTables,2.0,2.0,0.0
+ISO,1.0,0.0,0.0
+Intelbrás,0.0,0.0,1.0
+Java,0.0,2.0,0.0
+JavaScript,1.0,2.0,1.0
+Jenkins,0.0,2.0,0.0
+Jquery,0.0,0.0,1.0
+Junniper,0.0,0.0,1.0
+Kaspersky,1.0,1.0,0.0
+Kubernets,0.0,1.0,1.0
+LGPD,2.0,4.0,0.0
+Linguagem SQL,1.0,6.0,2.0
+Linux ,0.0,1.0,0.0
+Linux Arch,0.0,1.0,0.0
+Linux Cent OS/Red Hat,1.0,3.0,0.0
+Linux Debian,1.0,4.0,2.0
+Linux Kali,0.0,1.0,0.0
+Linux Red Hat,1.0,1.0,1.0
+Linux Server,1.0,4.0,1.0
+Linux Suse,0.0,2.0,0.0
+Linux Ubuntu,1.0,2.0,0.0
+Lógica,0.0,0.0,1.0
+Lógica e Algoritmos,0.0,1.0,0.0
+MABS,1.0,0.0,1.0
+MAC,0.0,1.0,0.0
+MACOS,1.0,0.0,1.0
+MCB,0.0,2.0,0.0
+Manutenção,0.0,1.0,0.0
+Manutenção de Celular,0.0,1.0,0.0
+Manutenção de Computadores,2.0,0.0,2.0
+Manutenção de Servidores,1.0,0.0,0.0
+MongoDB,0.0,1.0,0.0
+MonitoraIT,0.0,1.0,2.0
+MySQL,0.0,2.0,2.0
+NAS Lenovo,0.0,0.0,1.0
+Nagios,1.0,1.0,4.0
+Office 365,1.0,2.0,5.0
+Oracle,0.0,6.0,0.0
+Oracle Linux,0.0,1.0,0.0
+PHP,0.0,0.0,2.0
+Packer,0.0,1.0,0.0
+Pascal/Delphi,0.0,1.0,1.0
+Pentaho,0.0,1.0,0.0
+Perfsense,2.0,3.0,0.0
+PostgreSQL,0.0,2.0,0.0
+Power App,0.0,1.0,0.0
+Power Apps,0.0,1.0,1.0
+Power Automate,0.0,1.0,0.0
+Power Automate ,0.0,1.0,2.0
+Power BI,1.0,1.0,1.0
+Power Platform,0.0,0.0,1.0
+PowerShell DSC,0.0,1.0,1.0
+Proteção de identidade,2.0,0.0,0.0
+Python,0.0,2.0,2.0
+R,0.0,0.0,1.0
+RDS,1.0,0.0,1.0
+RMM,0.0,1.0,2.0
+Rapesberry Pi,0.0,0.0,1.0
+React,1.0,0.0,1.0
+Redes,1.0,0.0,0.0
+Roteador Cisco,0.0,1.0,2.0
+Roteador Tplink,0.0,1.0,0.0
+Roteadores,3.0,4.0,2.0
+S4,0.0,1.0,0.0
+SIEM,0.0,0.0,2.0
+SIEM Inteliacts,1.0,0.0,0.0
+SPFX,1.0,0.0,0.0
+SQL Server ,1.0,3.0,1.0
+Script Powershell,0.0,1.0,0.0
+Script bash,1.0,1.0,2.0
+Script powershell,1.0,1.0,0.0
+ScriptBash,0.0,1.0,0.0
+Service Now,0.0,0.0,1.0
+Sharepoint,1.0,3.0,3.0
+SolarWinds,1.0,1.0,0.0
+SonicWall,2.0,3.0,4.0
+SonicWall VPN,1.0,0.0,0.0
+Sophos,1.0,1.0,4.0
+Speed,1.0,0.0,0.0
+Switch Cisco,0.0,1.0,1.0
+Switches,3.0,3.0,3.0
+Switches Cisco,0.0,0.0,1.0
+Synogie,0.0,0.0,1.0
+TSM,0.0,1.0,0.0
+TakeControl,1.0,0.0,0.0
+Team Viewer,1.0,0.0,0.0
+Teams,1.0,2.0,1.0
+Terraform,1.0,1.0,0.0
+TypeScript,0.0,1.0,0.0
+URA,0.0,0.0,1.0
+Unify,0.0,0.0,1.0
+Unix Server,0.0,1.0,0.0
+UnltraVNC,1.0,0.0,0.0
+VB6,0.0,0.0,1.0
+VBScript,0.0,1.0,0.0
+VEEM,0.0,7.0,6.0
+VMWare,2.0,3.0,1.0
+VPN,5.0,1.0,1.0
+VPN Servidor,0.0,1.0,0.0
+Varonis,0.0,1.0,0.0
+Wi-Fi,1.0,0.0,1.0
+Windows,11.0,4.0,6.0
+Windows Backup,0.0,1.0,0.0
+Windows Firewall,0.0,0.0,1.0
+Windows Server,3.0,6.0,5.0
+Windows Server 2016,0.0,0.0,1.0
+Windows VPN,1.0,0.0,0.0
+Zabbix,0.0,5.0,4.0
+Zention*,0.0,1.0,0.0
+Zimbra,0.0,0.0,1.0

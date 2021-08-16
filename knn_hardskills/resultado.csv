@@ -1,0 +1,538 @@
+,Colaborador_gen,Categoria,Especialidade,Nivel,Turma
+0,Colaborador 1,Cloud,Azure,Avançado,0
+1,Colaborador 1,Desenvolvimento,Script powershell,Avançado,0
+2,Colaborador 1,Devops,Terraform,Avançado,0
+3,Colaborador 1,Firewall,ForefrontTMG,Avançado,0
+4,Colaborador 1,Firewall,Windows,Avançado,0
+5,Colaborador 1,Segurança,Certificado Digital,Avançado,0
+6,Colaborador 1,Segurança,Controle de acessos,Avançado,0
+7,Colaborador 1,Segurança,Firewall,Avançado,0
+8,Colaborador 1,Segurança,Proteção de identidade,Avançado,0
+9,Colaborador 1,Segurança,VPN,Avançado,0
+10,Colaborador 1,Servidores,AD,Avançado,0
+11,Colaborador 1,Servidores,DHCP,Avançado,0
+12,Colaborador 1,Servidores,DNS,Avançado,0
+13,Colaborador 1,Servidores,Failover Cluster,Avançado,0
+14,Colaborador 1,Servidores,File Server,Avançado,0
+15,Colaborador 1,Servidores,Hyper-V,Avançado,0
+16,Colaborador 1,Servidores,RDS,Avançado,0
+17,Colaborador 1,Servidores,Windows Server,Avançado,0
+18,Colaborador 1,SO,Windows,Avançado,0
+19,Colaborador 10,Monitoramento,Nagios,Avançado,0
+20,Colaborador 10,Monitoramento,SolarWinds,Avançado,0
+21,Colaborador 11,Firewalls,Checkpoint,Avançado,0
+22,Colaborador 11,Firewalls,Fortinet,Avançado,0
+23,Colaborador 11,Firewalls,ISO,Avançado,0
+24,Colaborador 11,Firewalls,LGPD,Avançado,0
+25,Colaborador 11,Firewalls,SonicWall,Avançado,0
+26,Colaborador 11,Firewalls,Sophos,Avançado,0
+27,Colaborador 11,Redes,Cabeamento,Avançado,0
+28,Colaborador 11,Redes,Estrutura de Redes,Avançado,0
+29,Colaborador 11,Segurança,Antivirus Macaffe,Avançado,0
+30,Colaborador 11,Segurança,Antivirus Sophos,Avançado,0
+31,Colaborador 11,Segurança,Antivirus Trend,Avançado,0
+32,Colaborador 11,Segurança,SIEM Inteliacts,Avançado,0
+33,Colaborador 11,Segurança,VPN,Avançado,0
+34,Colaborador 11,SO,Linux Red Hat,Avançado,0
+35,Colaborador 11,SO,Linux Ubuntu,Avançado,0
+36,Colaborador 11,SO,Windows,Avançado,0
+37,Colaborador 15,Segurança,SonicWall VPN,Avançado,0
+38,Colaborador 15,Segurança,Windows VPN,Avançado,0
+39,Colaborador 15,SO,Windows,Avançado,0
+40,Colaborador 16,Segurança,Anydesk,Avançado,0
+41,Colaborador 16,Segurança,TakeControl,Avançado,0
+42,Colaborador 16,Segurança,Team Viewer,Avançado,0
+43,Colaborador 16,Segurança,UnltraVNC,Avançado,0
+44,Colaborador 19,Redes,Estrutura de Redes,Avançado,0
+45,Colaborador 19,Segurança,Antivirus Sophos,Avançado,0
+46,Colaborador 19,Segurança,Antivirus Trend,Avançado,0
+47,Colaborador 19,Segurança,VPN,Avançado,0
+48,Colaborador 19,SO,Windows,Avançado,0
+49,Colaborador 2,Firewall,IPTables,Avançado,0
+50,Colaborador 2,Firewall,Windows,Avançado,0
+51,Colaborador 2,Proxy,Perfsense,Avançado,0
+52,Colaborador 2,Proxy,Speed,Avançado,0
+53,Colaborador 2,Redes,Cabeamento,Avançado,0
+54,Colaborador 2,Redes,Redes,Avançado,0
+55,Colaborador 2,Redes,Roteadores,Avançado,0
+56,Colaborador 2,Redes,Switches,Avançado,0
+57,Colaborador 2,Segurança,Checkpoint,Avançado,0
+58,Colaborador 2,Segurança,Firewall Fortinet,Avançado,0
+59,Colaborador 2,Segurança,Firewall Sophos,Avançado,0
+60,Colaborador 2,Segurança,VPN,Avançado,0
+61,Colaborador 2,Servidores,VMWare,Avançado,0
+62,Colaborador 2,Storage,Dell,Avançado,0
+63,Colaborador 20,SO,Windows,Avançado,0
+64,Colaborador 21,Infraestrutura,Manutenção de Computadores,Avançado,0
+65,Colaborador 4,E-mail/Collab,Power BI,Avançado,0
+66,Colaborador 5,Backup,HP Data Protector,Avançado,0
+67,Colaborador 5,Backup,MABS,Avançado,0
+68,Colaborador 5,Servidores,AD,Avançado,0
+69,Colaborador 5,Servidores,DHCP,Avançado,0
+70,Colaborador 5,Servidores,DNS,Avançado,0
+71,Colaborador 5,Servidores,Failover Cluster,Avançado,0
+72,Colaborador 5,Servidores,File Server,Avançado,0
+73,Colaborador 5,Servidores,Hyper-V,Avançado,0
+74,Colaborador 5,Servidores,Windows Server,Avançado,0
+75,Colaborador 5,SO,Windows,Avançado,0
+76,Colaborador 6,Desenvolvimento,Script bash,Avançado,0
+77,Colaborador 6,E-mails/Collab,Office 365,Avançado,0
+78,Colaborador 6,E-mails/Collab,Teams,Avançado,0
+79,Colaborador 6,Firewall,IPTables,Avançado,0
+80,Colaborador 6,Firewall,Perfsense,Avançado,0
+81,Colaborador 6,Firewall,SonicWall,Avançado,0
+82,Colaborador 6,Firewall,Windows,Avançado,0
+83,Colaborador 6,Redes,Cabeamento,Avançado,0
+84,Colaborador 6,Redes,Estrutura de Redes,Avançado,0
+85,Colaborador 6,Redes,Roteadores,Avançado,0
+86,Colaborador 6,Redes,Switches,Avançado,0
+87,Colaborador 6,Redes,Wi-Fi,Avançado,0
+88,Colaborador 6,Segurança,Antivirus,Avançado,0
+89,Colaborador 6,Segurança,Antivirus Trend,Avançado,0
+90,Colaborador 6,Segurança,Certificado Digital,Avançado,0
+91,Colaborador 6,Segurança,Controle de acessos,Avançado,0
+92,Colaborador 6,Segurança,Firewall,Avançado,0
+93,Colaborador 6,Segurança,Kaspersky,Avançado,0
+94,Colaborador 6,Segurança,LGPD,Avançado,0
+95,Colaborador 6,Segurança,Proteção de identidade,Avançado,0
+96,Colaborador 6,Segurança,VPN,Avançado,0
+97,Colaborador 6,Servidores,AD,Avançado,0
+98,Colaborador 6,Servidores,Citrix Xen Server,Avançado,0
+99,Colaborador 6,Servidores,DHCP,Avançado,0
+100,Colaborador 6,Servidores,DNS,Avançado,0
+101,Colaborador 6,Servidores,File Server,Avançado,0
+102,Colaborador 6,Servidores,Hyper-V,Avançado,0
+103,Colaborador 6,Servidores,Linux Server,Avançado,0
+104,Colaborador 6,Servidores,VMWare,Avançado,0
+105,Colaborador 6,Servidores,Windows Server,Avançado,0
+106,Colaborador 6,SO,Linux Cent OS/Red Hat,Avançado,0
+107,Colaborador 6,SO,Linux Debian,Avançado,0
+108,Colaborador 6,SO,MACOS,Avançado,0
+109,Colaborador 6,SO,Windows,Avançado,0
+110,Colaborador 6,Storage,Dell,Avançado,0
+111,Colaborador 7,Desenvolvimento,C#,Avançado,0
+112,Colaborador 7,Desenvolvimento,CSS,Avançado,0
+113,Colaborador 7,Desenvolvimento,HTML,Avançado,0
+114,Colaborador 7,Desenvolvimento,JavaScript,Avançado,0
+115,Colaborador 7,Desenvolvimento,React,Avançado,0
+116,Colaborador 7,Desenvolvimento,Sharepoint,Avançado,0
+117,Colaborador 7,Desenvolvimento,SPFX,Avançado,0
+118,Colaborador 8,Database,Linguagem SQL,Avançado,0
+119,Colaborador 8,Database,SQL Server ,Avançado,0
+120,Colaborador 9,Hardware,Manutenção de Computadores,Avançado,0
+121,Colaborador 9,Hardware,Manutenção de Servidores,Avançado,0
+122,Colaborador 9,Redes,Cabeamento,Avançado,0
+123,Colaborador 9,Redes,Estrutura de Redes,Avançado,0
+124,Colaborador 9,Redes,Roteadores,Avançado,0
+125,Colaborador 9,Redes,Switches,Avançado,0
+126,Colaborador 9,SO,Windows,Avançado,0
+127,Colaborador 6,Segurança,Checkpoint,Iniciante,1
+128,Colaborador 1,Cloud,Digital Ocean,Iniciante,1
+129,Colaborador 1,Database,Linguagem SQL,Iniciante,1
+130,Colaborador 1,Database,SQL Server ,Iniciante,1
+131,Colaborador 1,Desenvolvimento,C,Iniciante,1
+132,Colaborador 1,Desenvolvimento,Java,Iniciante,1
+133,Colaborador 1,Desenvolvimento,Python,Iniciante,1
+134,Colaborador 1,Devops,CI/CD,Iniciante,1
+135,Colaborador 1,Devops,Dokers Forms,Iniciante,1
+136,Colaborador 1,Devops,Jenkins,Iniciante,1
+137,Colaborador 1,Devops,Packer,Iniciante,1
+138,Colaborador 1,Firewall,IPTables,Iniciante,1
+139,Colaborador 1,Firewall,Perfsense,Iniciante,1
+140,Colaborador 1,Firewall,SonicWall,Iniciante,1
+141,Colaborador 1,Monitoramento,Bigbrother Xymon,Iniciante,1
+142,Colaborador 1,Redes,Cabeamento,Iniciante,1
+143,Colaborador 1,Redes,Roteadores,Iniciante,1
+144,Colaborador 1,Segurança,Antivirus,Iniciante,1
+145,Colaborador 1,Servidores,VMWare,Iniciante,1
+146,Colaborador 1,SO,Linux Cent OS/Red Hat,Iniciante,1
+147,Colaborador 1,SO,Linux Debian,Iniciante,1
+148,Colaborador 1,SO,Linux Suse,Iniciante,1
+149,Colaborador 1,Storage,Gerenciamento,Iniciante,1
+150,Colaborador 10,Monitoramento,Zabbix,Iniciante,1
+151,Colaborador 11,Backup,Data Protector,Iniciante,1
+152,Colaborador 11,Backup,VEEM,Iniciante,1
+153,Colaborador 11,Database,Linguagem SQL,Iniciante,1
+154,Colaborador 11,Database,Oracle,Iniciante,1
+155,Colaborador 11,Storage,Gerenciamento,Iniciante,1
+156,Colaborador 12,Backup,VEEM,Iniciante,1
+157,Colaborador 12,E-mails/Collab,Exchange,Iniciante,1
+158,Colaborador 12,SO,Windows,Iniciante,1
+159,Colaborador 13,Database,Oracle,Iniciante,1
+160,Colaborador 13,Database,SQL Server ,Iniciante,1
+161,Colaborador 13,Firewalls,Perfsense,Iniciante,1
+162,Colaborador 13,Firewalls,SonicWall,Iniciante,1
+163,Colaborador 13,Redes,Cabeamento,Iniciante,1
+164,Colaborador 13,Redes,Estrutura de Redes,Iniciante,1
+165,Colaborador 13,Redes,Roteadores,Iniciante,1
+166,Colaborador 13,Redes,Switches,Iniciante,1
+167,Colaborador 13,Segurança,Antivirus KasperSky,Iniciante,1
+168,Colaborador 13,Servidores,Linux Server,Iniciante,1
+169,Colaborador 13,SO,Linux Cent OS/Red Hat,Iniciante,1
+170,Colaborador 13,Storage,Gerenciamento,Iniciante,1
+171,Colaborador 14,Backup,MCB,Iniciante,1
+172,Colaborador 14,Infraestrutura,Manutenção,Iniciante,1
+173,Colaborador 15,Backup,Data Protector,Iniciante,1
+174,Colaborador 15,Backup,VEEM,Iniciante,1
+175,Colaborador 15,Cloud,AWS,Iniciante,1
+176,Colaborador 15,Cloud,Azure,Iniciante,1
+177,Colaborador 15,Database,Oracle,Iniciante,1
+178,Colaborador 15,Database,SQL Server ,Iniciante,1
+179,Colaborador 15,SO,Linux Cent OS/Red Hat,Iniciante,1
+180,Colaborador 15,SO,Linux Debian,Iniciante,1
+181,Colaborador 15,Storage,HP,Iniciante,1
+182,Colaborador 16,Database,Linguagem SQL,Iniciante,1
+183,Colaborador 16,Desenvolvimento,Lógica e Algoritmos,Iniciante,1
+184,Colaborador 16,Desenvolvimento,Pascal/Delphi,Iniciante,1
+185,Colaborador 16,Monitoramento,Zabbix,Iniciante,1
+186,Colaborador 16,Redes,Cabeamento,Iniciante,1
+187,Colaborador 16,Segurança,Controle de acessos,Iniciante,1
+188,Colaborador 16,Servidores,DHCP,Iniciante,1
+189,Colaborador 16,Servidores,Windows Server,Iniciante,1
+190,Colaborador 17,Database,MySQL,Iniciante,1
+191,Colaborador 17,Database,PostgreSQL,Iniciante,1
+192,Colaborador 17,Devops,Azure Devops,Iniciante,1
+193,Colaborador 17,Devops,Git,Iniciante,1
+194,Colaborador 17,Devops,GitHub,Iniciante,1
+195,Colaborador 17,E-mails/Collab,Power Automate,Iniciante,1
+196,Colaborador 17,E-mails/Collab,Sharepoint,Iniciante,1
+197,Colaborador 17,Firewalls,Cisco,Iniciante,1
+198,Colaborador 17,Monitoramento,Grafana,Iniciante,1
+199,Colaborador 17,Redes,Estrutura de Redes,Iniciante,1
+200,Colaborador 17,Servidores,DHCP,Iniciante,1
+201,Colaborador 17,Servidores,DNS,Iniciante,1
+202,Colaborador 17,Servidores,Windows Server,Iniciante,1
+203,Colaborador 17,SO,Linux Arch,Iniciante,1
+204,Colaborador 17,SO,Linux Ubuntu,Iniciante,1
+205,Colaborador 18,Desenvolvimento,C,Iniciante,1
+206,Colaborador 18,Desenvolvimento,C#,Iniciante,1
+207,Colaborador 18,Desenvolvimento,CSS,Iniciante,1
+208,Colaborador 18,Desenvolvimento,HTML,Iniciante,1
+209,Colaborador 18,Desenvolvimento,Java,Iniciante,1
+210,Colaborador 18,Desenvolvimento,Python,Iniciante,1
+211,Colaborador 18,Devops,Git,Iniciante,1
+212,Colaborador 18,Devops,GitHub,Iniciante,1
+213,Colaborador 18,Firewalls,Sophos,Iniciante,1
+214,Colaborador 18,Redes,Estrutura de Redes,Iniciante,1
+215,Colaborador 18,Redes,Roteadores,Iniciante,1
+216,Colaborador 18,Redes,Switches,Iniciante,1
+217,Colaborador 18,Segurança,LGPD,Iniciante,1
+218,Colaborador 18,SO,Windows,Iniciante,1
+219,Colaborador 19,Backup,Data Protector,Iniciante,1
+220,Colaborador 19,Backup,MCB,Iniciante,1
+221,Colaborador 19,Backup,VEEM,Iniciante,1
+222,Colaborador 19,E-mails/Collab,Office 365,Iniciante,1
+223,Colaborador 19,E-mails/Collab,Sharepoint,Iniciante,1
+224,Colaborador 19,E-mails/Collab,Teams,Iniciante,1
+225,Colaborador 19,Redes,Roteador Cisco,Iniciante,1
+226,Colaborador 19,Redes,Switch Cisco,Iniciante,1
+227,Colaborador 19,Servidores,DNS,Iniciante,1
+228,Colaborador 19,Servidores,File Server,Iniciante,1
+229,Colaborador 19,Servidores,Linux Server,Iniciante,1
+230,Colaborador 19,SO,Linux Debian,Iniciante,1
+231,Colaborador 19,Telefonia,3CX,Iniciante,1
+232,Colaborador 2,Cloud,AWS,Iniciante,1
+233,Colaborador 2,Cloud,Azure,Iniciante,1
+234,Colaborador 2,Database,Linguagem SQL,Iniciante,1
+235,Colaborador 2,Devops,Docker,Iniciante,1
+236,Colaborador 2,Proxy,Endian Firewall,Iniciante,1
+237,Colaborador 2,Segurança,Kaspersky,Iniciante,1
+238,Colaborador 2,Segurança,LGPD,Iniciante,1
+239,Colaborador 2,Segurança,Varonis,Iniciante,1
+240,Colaborador 2,Storage,Data Domain,Iniciante,1
+241,Colaborador 20,Backup,Cobian,Iniciante,1
+242,Colaborador 20,Backup,Data Protector,Iniciante,1
+243,Colaborador 20,Backup,VEEM,Iniciante,1
+244,Colaborador 20,Backup,Windows Backup,Iniciante,1
+245,Colaborador 20,Desenvolvimento,CSS,Iniciante,1
+246,Colaborador 20,Desenvolvimento,HTML,Iniciante,1
+247,Colaborador 20,Firewalls,Windows,Iniciante,1
+248,Colaborador 20,Firewalls,Zention*,Iniciante,1
+249,Colaborador 20,Infraestrutura,Manutenção de Celular,Iniciante,1
+250,Colaborador 20,Redes,Cabeamento,Iniciante,1
+251,Colaborador 20,Redes,Estrutura de Redes,Iniciante,1
+252,Colaborador 20,Redes,Roteador Tplink,Iniciante,1
+253,Colaborador 20,Segurança,Antivirus Trend,Iniciante,1
+254,Colaborador 20,Telefonia,3CX,Iniciante,1
+255,Colaborador 21,Backup,Data Protector,Iniciante,1
+256,Colaborador 21,E-mails/Collab,Exchange,Iniciante,1
+257,Colaborador 21,E-mails/Collab,Office 365,Iniciante,1
+258,Colaborador 21,E-mails/Collab,Teams,Iniciante,1
+259,Colaborador 21,Firewalls,SonicWall,Iniciante,1
+260,Colaborador 21,Redes,Estrutura de Redes,Iniciante,1
+261,Colaborador 21,Redes,Roteadores,Iniciante,1
+262,Colaborador 21,Redes,Switches,Iniciante,1
+263,Colaborador 21,Segurança,Antivirus  Trend,Iniciante,1
+264,Colaborador 21,Servidores,Windows Server,Iniciante,1
+265,Colaborador 3,Database,Linguagem SQL,Iniciante,1
+266,Colaborador 3,Desenvolvimento,TypeScript,Iniciante,1
+267,Colaborador 3,Devops,Azure Devops,Iniciante,1
+268,Colaborador 3,Devops,Git,Iniciante,1
+269,Colaborador 3,E-mail/Collab,Power App,Iniciante,1
+270,Colaborador 3,Servidores,AD,Iniciante,1
+271,Colaborador 3,Servidores,DHCP,Iniciante,1
+272,Colaborador 3,Servidores,Hyper-V,Iniciante,1
+273,Colaborador 3,Servidores,Windows Server,Iniciante,1
+274,Colaborador 3,SO,Linux Ubuntu,Iniciante,1
+275,Colaborador 3,SO,MAC,Iniciante,1
+276,Colaborador 3,SO,Windows,Iniciante,1
+277,Colaborador 4,Cloud,AWS,Iniciante,1
+278,Colaborador 4,Cloud,AWS EC2,Iniciante,1
+279,Colaborador 4,Cloud,Azure,Iniciante,1
+280,Colaborador 4,Cloud,Data Bricks,Iniciante,1
+281,Colaborador 4,Cloud,Data Lake,Iniciante,1
+282,Colaborador 4,Cloud,Google,Iniciante,1
+283,Colaborador 4,Data Science,Apache Hive,Iniciante,1
+284,Colaborador 4,Data Science,Apache Mahout,Iniciante,1
+285,Colaborador 4,Database,MongoDB,Iniciante,1
+286,Colaborador 4,Database,MySQL,Iniciante,1
+287,Colaborador 4,Database,Oracle,Iniciante,1
+288,Colaborador 4,Database,PostgreSQL,Iniciante,1
+289,Colaborador 4,Desenvolvimento,JavaScript,Iniciante,1
+290,Colaborador 4,Desenvolvimento,ScriptBash,Iniciante,1
+291,Colaborador 4,DevOps,Azure Devops,Iniciante,1
+292,Colaborador 4,DevOps,Docker / Conteiner,Iniciante,1
+293,Colaborador 4,DevOps,Git,Iniciante,1
+294,Colaborador 4,DevOps,GitHub,Iniciante,1
+295,Colaborador 4,E-mail/Collab,Power Apps,Iniciante,1
+296,Colaborador 4,E-mail/Collab,Power Automate ,Iniciante,1
+297,Colaborador 4,Segurança,IPTables,Iniciante,1
+298,Colaborador 4,Servidores,Hyper-V,Iniciante,1
+299,Colaborador 4,Servidores,Unix Server,Iniciante,1
+300,Colaborador 4,Servidores,VMWare,Iniciante,1
+301,Colaborador 4,Servidores,Windows Server,Iniciante,1
+302,Colaborador 4,SO,Linux Kali,Iniciante,1
+303,Colaborador 4,Telefonia,3CX,Iniciante,1
+304,Colaborador 5,Cloud,AWS,Iniciante,1
+305,Colaborador 5,Desenvolvimento,Script bash,Iniciante,1
+306,Colaborador 5,Desenvolvimento,Script Powershell,Iniciante,1
+307,Colaborador 5,Devops,Ansible,Iniciante,1
+308,Colaborador 5,Devops,Docker / Conteiner,Iniciante,1
+309,Colaborador 5,Devops,Git,Iniciante,1
+310,Colaborador 5,Devops,Jenkins,Iniciante,1
+311,Colaborador 5,Devops,Kubernets,Iniciante,1
+312,Colaborador 5,Devops,Terraform,Iniciante,1
+313,Colaborador 5,E-mail/Collab,Exchange,Iniciante,1
+314,Colaborador 5,Firewall,Fortinet,Iniciante,1
+315,Colaborador 5,Firewall,Perfsense,Iniciante,1
+316,Colaborador 5,Firewall,S4,Iniciante,1
+317,Colaborador 5,Monitoramento,MonitoraIT,Iniciante,1
+318,Colaborador 5,Monitoramento,Nagios,Iniciante,1
+319,Colaborador 5,Monitoramento,RMM,Iniciante,1
+320,Colaborador 5,Monitoramento,Zabbix,Iniciante,1
+321,Colaborador 5,Segurança,Certificado Digital,Iniciante,1
+322,Colaborador 5,Segurança,LGPD,Iniciante,1
+323,Colaborador 5,Segurança,VPN,Iniciante,1
+324,Colaborador 5,Servidores,Linux Server,Iniciante,1
+325,Colaborador 5,SO,Linux Debian,Iniciante,1
+326,Colaborador 5,SO,Linux Suse,Iniciante,1
+327,Colaborador 6,Backup,VEEM,Iniciante,1
+328,Colaborador 6,Cloud,AWS S3,Iniciante,1
+329,Colaborador 6,Database,Linguagem SQL,Iniciante,1
+330,Colaborador 6,Desenvolvimento,Script powershell,Iniciante,1
+331,Colaborador 6,Telefonia,3CX,Iniciante,1
+332,Colaborador 7,Database,Oracle,Iniciante,1
+333,Colaborador 7,E-mails/Collab,Power BI,Iniciante,1
+334,Colaborador 8,Backup,TSM,Iniciante,1
+335,Colaborador 8,Database,Oracle,Iniciante,1
+336,Colaborador 8,Desenvolvimento,JavaScript,Iniciante,1
+337,Colaborador 8,Desenvolvimento,VBScript,Iniciante,1
+338,Colaborador 8,Devops,Git,Iniciante,1
+339,Colaborador 8,E-mails/Collab,Pentaho,Iniciante,1
+340,Colaborador 8,E-mails/Collab,Sharepoint,Iniciante,1
+341,Colaborador 8,Firewalls,Firewall,Iniciante,1
+342,Colaborador 8,Monitoramento,SolarWinds,Iniciante,1
+343,Colaborador 8,Monitoramento,Zabbix,Iniciante,1
+344,Colaborador 8,Segurança,Antivirus,Iniciante,1
+345,Colaborador 8,Segurança,LGPD,Iniciante,1
+346,Colaborador 8,Segurança,VPN Servidor,Iniciante,1
+347,Colaborador 8,Servidores,Linux ,Iniciante,1
+348,Colaborador 8,Servidores,VMWare,Iniciante,1
+349,Colaborador 8,SO,Oracle Linux,Iniciante,1
+350,Colaborador 9,Backup,Data Protector,Iniciante,1
+351,Colaborador 9,Backup,VEEM,Iniciante,1
+352,Colaborador 9,Desenvolvimento,PowerShell DSC,Iniciante,1
+353,Colaborador 9,Monitoramento,Zabbix,Iniciante,1
+354,Colaborador 9,Servidores,AD,Iniciante,1
+355,Colaborador 9,Servidores,DHCP,Iniciante,1
+356,Colaborador 9,Servidores,DNS,Iniciante,1
+357,Colaborador 9,Servidores,File Server,Iniciante,1
+358,Colaborador 9,Servidores,Linux Server,Iniciante,1
+359,Colaborador 9,Servidores,Windows Server,Iniciante,1
+360,Colaborador 9,SO,Linux Red Hat,Iniciante,1
+361,Colaborador 9,Telefonia,3CX,Iniciante,1
+362,Colaborador 5,Backup,VEEM,Intermediario,2
+363,Colaborador 5,Cloud,Azure,Intermediario,2
+364,Colaborador 5,E-mail/Collab,Office 365,Intermediario,2
+365,Colaborador 5,Firewall,SonicWall,Intermediario,2
+366,Colaborador 5,Redes,Cabeamento,Intermediario,2
+367,Colaborador 5,Redes,Estrutura de Redes,Intermediario,2
+368,Colaborador 5,Redes,Roteadores,Intermediario,2
+369,Colaborador 5,Redes,Switches,Intermediario,2
+370,Colaborador 5,Segurança,Antivirus,Intermediario,2
+371,Colaborador 5,Segurança,Controle de acessos,Intermediario,2
+372,Colaborador 5,Servidores,RDS,Intermediario,2
+373,Colaborador 5,Servidores,VMWare,Intermediario,2
+374,Colaborador 5,Storage,Dell,Intermediario,2
+375,Colaborador 5,Storage,HP,Intermediario,2
+376,Colaborador 5,Storage,IBM,Intermediario,2
+377,Colaborador 9,Storage,Synogie,Intermediario,2
+378,Colaborador 1,Backup,HP Data Protector,Intermediario,2
+379,Colaborador 1,Backup,MABS,Intermediario,2
+380,Colaborador 1,Backup,VEEM,Intermediario,2
+381,Colaborador 1,Cloud,AWS,Intermediario,2
+382,Colaborador 1,Desenvolvimento,Script bash,Intermediario,2
+383,Colaborador 1,Devops,Ansible,Intermediario,2
+384,Colaborador 1,Devops,Azure Devops,Intermediario,2
+385,Colaborador 1,Devops,Docker / Conteiner,Intermediario,2
+386,Colaborador 1,Devops,Git,Intermediario,2
+387,Colaborador 1,Devops,Git Lab ,Intermediario,2
+388,Colaborador 1,Devops,GitHub,Intermediario,2
+389,Colaborador 1,Devops,Kubernets,Intermediario,2
+390,Colaborador 1,Devops,PowerShell DSC,Intermediario,2
+391,Colaborador 1,E-mail/Collab,Exchange,Intermediario,2
+392,Colaborador 1,E-mail/Collab,Office 365,Intermediario,2
+393,Colaborador 1,Monitoramento,MonitoraIT,Intermediario,2
+394,Colaborador 1,Monitoramento,Nagios,Intermediario,2
+395,Colaborador 1,Monitoramento,RMM,Intermediario,2
+396,Colaborador 1,Monitoramento,Zabbix,Intermediario,2
+397,Colaborador 1,Redes,Estrutura de Redes,Intermediario,2
+398,Colaborador 10,Automação,Rapesberry Pi,Intermediario,2
+399,Colaborador 10,Redes,Cabeamento,Intermediario,2
+400,Colaborador 10,Redes,Roteadores,Intermediario,2
+401,Colaborador 10,Redes,Switches,Intermediario,2
+402,Colaborador 10,Servidores,Citrix Xen Server,Intermediario,2
+403,Colaborador 10,SO,Linux Debian,Intermediario,2
+404,Colaborador 10,SO,Windows,Intermediario,2
+405,Colaborador 11,E-mails/Collab,Office 365,Intermediario,2
+406,Colaborador 11,E-mails/Collab,Sharepoint,Intermediario,2
+407,Colaborador 11,E-mails/Collab,Teams,Intermediario,2
+408,Colaborador 11,Redes,Switches,Intermediario,2
+409,Colaborador 11,Segurança,Cisco ASA,Intermediario,2
+410,Colaborador 11,Segurança,Junniper,Intermediario,2
+411,Colaborador 11,Servidores,Linux Server,Intermediario,2
+412,Colaborador 11,Servidores,Windows Server 2016,Intermediario,2
+413,Colaborador 11,Telefonia,Intelbrás,Intermediario,2
+414,Colaborador 12,Telefonia,URA,Intermediario,2
+415,Colaborador 13,Backup,Data Protector,Intermediario,2
+416,Colaborador 13,Backup,VEEM,Intermediario,2
+417,Colaborador 13,Desenvolvimento,HTML,Intermediario,2
+418,Colaborador 13,Desenvolvimento,Lógica,Intermediario,2
+419,Colaborador 13,Desenvolvimento,PHP,Intermediario,2
+420,Colaborador 13,Infraestrutura,Manutenção de Computadores,Intermediario,2
+421,Colaborador 13,Servidores,AD,Intermediario,2
+422,Colaborador 13,Servidores,DHCP,Intermediario,2
+423,Colaborador 13,Servidores,DNS,Intermediario,2
+424,Colaborador 13,Servidores,File Server,Intermediario,2
+425,Colaborador 13,Servidores,Windows Server,Intermediario,2
+426,Colaborador 13,SO,Windows,Intermediario,2
+427,Colaborador 15,E-mails/Collab,Exchange,Intermediario,2
+428,Colaborador 15,Firewalls,ASA Cisco,Intermediario,2
+429,Colaborador 15,Firewalls,SonicWall,Intermediario,2
+430,Colaborador 15,Monitoramento,Grafana,Intermediario,2
+431,Colaborador 15,Monitoramento,Nagios,Intermediario,2
+432,Colaborador 15,Redes,Roteador Cisco,Intermediario,2
+433,Colaborador 15,Redes,Switch Cisco,Intermediario,2
+434,Colaborador 15,Servidores,AD,Intermediario,2
+435,Colaborador 15,Servidores,DHCP,Intermediario,2
+436,Colaborador 15,Servidores,DNS,Intermediario,2
+437,Colaborador 15,Servidores,File Server,Intermediario,2
+438,Colaborador 15,Servidores,Windows Server,Intermediario,2
+439,Colaborador 15,Telefonia,Digitro/Asterisk,Intermediario,2
+440,Colaborador 16,Backup,VEEM,Intermediario,2
+441,Colaborador 16,E-mails/Collab,Office 365,Intermediario,2
+442,Colaborador 16,Segurança,Antivirus Sophos,Intermediario,2
+443,Colaborador 16,SO,Windows,Intermediario,2
+444,Colaborador 16,Storage,NAS Lenovo,Intermediario,2
+445,Colaborador 17,Desenvolvimento,Python,Intermediario,2
+446,Colaborador 19,E-mails/Collab,Power BI,Intermediario,2
+447,Colaborador 19,Firewalls,SonicWall,Intermediario,2
+448,Colaborador 19,Monitoramento,Zabbix,Intermediario,2
+449,Colaborador 19,Servidores,AD,Intermediario,2
+450,Colaborador 19,Servidores,DHCP,Intermediario,2
+451,Colaborador 19,Servidores,Windows Server,Intermediario,2
+452,Colaborador 2,Backup,ArchServer,Intermediario,2
+453,Colaborador 2,Backup,VEEM,Intermediario,2
+454,Colaborador 2,Desenvolvimento,Script bash,Intermediario,2
+455,Colaborador 2,E-mail/Collab,Zimbra,Intermediario,2
+456,Colaborador 2,Monitoramento,Zabbix,Intermediario,2
+457,Colaborador 2,Segurança,Antivirus Trend,Intermediario,2
+458,Colaborador 2,Segurança,SIEM,Intermediario,2
+459,Colaborador 2,Segurança,SonicWall,Intermediario,2
+460,Colaborador 2,Segurança,Sophos,Intermediario,2
+461,Colaborador 2,Servidores,Hyper-V,Intermediario,2
+462,Colaborador 2,Servidores,Windows Server,Intermediario,2
+463,Colaborador 2,SO,CentOS,Intermediario,2
+464,Colaborador 2,SO,Debian,Intermediario,2
+465,Colaborador 2,SO,Windows,Intermediario,2
+466,Colaborador 2,Storage,Data Protection,Intermediario,2
+467,Colaborador 20,Infraestrutura,Manutenção de Computadores,Intermediario,2
+468,Colaborador 21,Backup,VEEM,Intermediario,2
+469,Colaborador 21,Redes,Cabeamento,Intermediario,2
+470,Colaborador 21,SO,Windows,Intermediario,2
+471,Colaborador 3,Desenvolvimento,C#,Intermediario,2
+472,Colaborador 3,Desenvolvimento,CSS,Intermediario,2
+473,Colaborador 3,Desenvolvimento,HTML,Intermediario,2
+474,Colaborador 3,Desenvolvimento,JavaScript,Intermediario,2
+475,Colaborador 3,Desenvolvimento,Jquery,Intermediario,2
+476,Colaborador 3,Desenvolvimento,React,Intermediario,2
+477,Colaborador 3,Desenvolvimento,Sharepoint,Intermediario,2
+478,Colaborador 3,E-mail/Collab,Power Automate ,Intermediario,2
+479,Colaborador 3,E-mail/Collab,Power Platform,Intermediario,2
+480,Colaborador 4,Data Science,Apache Hadoop,Intermediario,2
+481,Colaborador 4,Data Science,Apache Spark,Intermediario,2
+482,Colaborador 4,Database,Linguagem SQL,Intermediario,2
+483,Colaborador 4,Desenvolvimento,Assembler,Intermediario,2
+484,Colaborador 4,Desenvolvimento,C++,Intermediario,2
+485,Colaborador 4,Desenvolvimento,CSS,Intermediario,2
+486,Colaborador 4,Desenvolvimento,HTML,Intermediario,2
+487,Colaborador 4,Desenvolvimento,Pascal/Delphi,Intermediario,2
+488,Colaborador 4,Desenvolvimento,Python,Intermediario,2
+489,Colaborador 4,Desenvolvimento,R,Intermediario,2
+490,Colaborador 4,Monitoramento,Nagios,Intermediario,2
+491,Colaborador 4,Redes,Cabeamento,Intermediario,2
+492,Colaborador 4,Redes,Estrutura de Redes,Intermediario,2
+493,Colaborador 4,Redes,Roteador Cisco,Intermediario,2
+494,Colaborador 4,Redes,Switches Cisco,Intermediario,2
+495,Colaborador 4,Redes,Wi-Fi,Intermediario,2
+496,Colaborador 4,SO,Linux Debian,Intermediario,2
+497,Colaborador 4,SO,Linux Red Hat,Intermediario,2
+498,Colaborador 4,Telefonia,Digitro/Asterisk,Intermediario,2
+499,Colaborador 4,Telefonia,Unify,Intermediario,2
+500,Colaborador 6,Cloud,AWS,Intermediario,2
+501,Colaborador 6,Desenvolvimento,CSS,Intermediario,2
+502,Colaborador 6,Desenvolvimento,HTML,Intermediario,2
+503,Colaborador 6,Desenvolvimento,PHP,Intermediario,2
+504,Colaborador 6,E-mails/Collab,Exchange,Intermediario,2
+505,Colaborador 6,E-mails/Collab,Sharepoint,Intermediario,2
+506,Colaborador 6,Firewall,Cisco,Intermediario,2
+507,Colaborador 6,Firewall,Sophos,Intermediario,2
+508,Colaborador 6,Monitoramento,MonitoraIT,Intermediario,2
+509,Colaborador 6,Monitoramento,Nagios,Intermediario,2
+510,Colaborador 6,Monitoramento,RMM,Intermediario,2
+511,Colaborador 6,Monitoramento,Zabbix,Intermediario,2
+512,Colaborador 6,Segurança,SIEM,Intermediario,2
+513,Colaborador 6,Segurança,Sophos,Intermediario,2
+514,Colaborador 6,Servidores,Failover Cluster,Intermediario,2
+515,Colaborador 7,Database,Linguagem SQL,Intermediario,2
+516,Colaborador 7,Database,MySQL,Intermediario,2
+517,Colaborador 7,Database,SQL Server ,Intermediario,2
+518,Colaborador 7,Desenvolvimento,Delphi,Intermediario,2
+519,Colaborador 7,Desenvolvimento,VB6,Intermediario,2
+520,Colaborador 7,Devops,Azure Devops,Intermediario,2
+521,Colaborador 7,Devops,Git,Intermediario,2
+522,Colaborador 7,E-mails/Collab,Power Apps,Intermediario,2
+523,Colaborador 7,E-mails/Collab,Power Automate ,Intermediario,2
+524,Colaborador 7,SO,MACOS,Intermediario,2
+525,Colaborador 7,SO,Windows,Intermediario,2
+526,Colaborador 8,Database,MySQL,Intermediario,2
+527,Colaborador 8,E-mails/Collab,ETL SQL Integration,Intermediario,2
+528,Colaborador 8,Servidores,Windows Server,Intermediario,2
+529,Colaborador 9,E-mails/Collab,Exchange,Intermediario,2
+530,Colaborador 9,E-mails/Collab,Office 365,Intermediario,2
+531,Colaborador 9,Firewalls,Sophos,Intermediario,2
+532,Colaborador 9,Firewalls,Windows Firewall,Intermediario,2
+533,Colaborador 9,Monitoramento,Service Now,Intermediario,2
+534,Colaborador 9,Segurança,Antivirus KasperSky,Intermediario,2
+535,Colaborador 9,Segurança,Antivirus Trend,Intermediario,2
+536,Colaborador 9,Segurança,VPN,Intermediario,2
